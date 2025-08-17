@@ -1,0 +1,14 @@
+||dns.google^
+||dns.google.com^
+||cloudflare-dns.com^
+||mozilla.cloudflare-dns.com^
+||dns.nextdns.io^
+||doh.opendns.com^
+||dns.quad9.net^
+||doh.cleanbrowsing.org^
+||dns.adguard.com^
+||doh.mullvad.net^
+||dot.mullvad.net^
+||doh.tenta.io^
+||doh.controld.com^
+||use-application-dns.net^
