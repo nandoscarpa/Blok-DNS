@@ -1,8 +1,10 @@
 *Lista AdBlock (DoH) para um projeto pessoal de Adguard-Unbound! <br>
 Se tiver interesse em utilizr, fique a vontate!!!
 
-<b> SUA FUNÇÃO: </b>
-Blocker/Impedir via Adguard+Unbound local, que apps/sofwares rodando na rede burlem os bloqueios de DNs do Adguard através de .dn(DoH) em sistemas modernos!
+<b> SUA FUNÇÃO: </b> <br>
+Bloquear/Impedir que, apps/sofwares locais burlem os bloqueios a nível DNs do Adguard, utilizando técnicas de .dNS(DoH) em sistemas modernos!<br>
+-Isso força todos os requiries da rede a passar pelo Adguard-Unbound e respeitar todas as regras impostas pelo Admi da rede.
+
 
 
 
